@@ -5,7 +5,6 @@
 2) Basal Cell Carcinoma (BCC)
 3) Squamous Cell Carcinoma (SCC)
 4) Dermatofibroma (DF)
-
 # Used Aditional Types
 5) Unknown Skin Cancer
 6) Normal Skin cancer.
