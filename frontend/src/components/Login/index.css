@@ -1,0 +1,86 @@
+.login-container{
+    max-width: 400px;
+    margin: 60px auto;
+    height: 60vh; 
+    display: flex;
+    flex-direction: column;
+    justify-content: center; 
+    align-items: center;
+    text-align: center;
+    padding: 20px;
+    background: #fff;
+    border-radius: 10px;
+    box-shadow: 1px 5px 10px 2px #7ba7a7;
+}
+
+h1{
+    box-shadow: 0 1px 1px #a1bec5;
+    border-radius: 5px;
+}
+
+.login-container:hover{
+    box-shadow: 0 5px 10px #89be9f;
+}
+
+.input{
+    margin: 10px;
+    width: 15rem;
+    margin-top: 12px;
+    height: 2rem;
+    outline: none;
+    border: solid;
+    border-width: 1px;
+    border-color: #808080 ;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    border-radius: 10px;
+    padding: 5px;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+.input:hover{
+    border-width: 2px;
+    border-radius: 10px;
+}
+
+.b1{
+    color: white;
+    margin-top: 3vh;
+    background-color: #00b7eb;
+    padding: 10px 25px;
+    color: #fff;
+    font-size: 1rem;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+    margin: 10px;
+}
+
+.b1:hover {
+  background-color: #00ff11;
+  padding: 13px 26px;
+  box-shadow: 0 5px 10px #505251;
+}
+
+.b2{
+    color: white;
+    margin-top: 3vh;
+    background-color: #00b7eb;
+    padding: 10px 15px;
+    color: #fff;
+    font-size: 1rem;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    margin: 10px;
+    transition: background-color 0.3s ease;
+}
+
+.b2:hover {
+  background-color: #ffffff;
+  color: #00ff04;
+  box-shadow: 0 5px 10px #505251;
+}
